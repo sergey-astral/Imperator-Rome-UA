@@ -1,0 +1,2 @@
+﻿l_russian:
+ pregnancy_reveal_secret:0 "Секрет беременности"

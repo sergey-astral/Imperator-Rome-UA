@@ -1,0 +1,3 @@
+﻿l_russian:
+ protectorate:0 "Протекторат"
+ CANCEL_TITLE:0 "Отменить зависимость"
