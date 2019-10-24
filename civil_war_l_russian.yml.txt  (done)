@@ -1,8 +1,8 @@
-﻿l_russian:
+l_russian:
  civil_war.2.t:0 "Кінець [SCOPE.sC('victorious_side').GetAdjective]ої громадянської війни"
  civil_war.2.desc:0 "Запекла громадянська війна в державі [SCOPE.sC('victorious_side').GetName] нарешті закінчилася. Вірні війська, якими командує [SCOPE.sC('victorious_side').GetRuler.GetName], здобули перемогу: армія повстанців та їхній лідер [SCOPE.sChar('resistance_ruler').GetName] розбиті.\n\n"
  civil_war.2.descOpinionGood:0 "\n\nНаші посланці передбачають, що нам варто порадіти перемозі друзів з держави [SCOPE.sC(''victorious_side'').GetName]. Можливо, нам варто знову налагодити спілкування і запропонувати допомогу в утриманні контролю над країною."
- civil_war.2.descOpinionBad:0 "\n\nНаші радники дуже незадоволені результатом цієї війни. Вони явно сподівалися, що наші [SCOPE.sC(''victorious_side'').GetAdjective]і вороги стануть ще слабшими. Проте нам зновуварто їх остерігатися."
+ civil_war.2.descOpinionBad:0 "\n\nНаші радники дуже незадоволені результатом цієї війни. Вони явно сподівалися, що наші [SCOPE.sC(''victorious_side'').GetAdjective]і вороги стануть ще слабшими. Проте нам знову варто їх остерігатися."
  civil_war.2.descOpinionNeutral:0 "\n\nРезультат цієї війни нам байдужий: [SCOPE.sC(''victorious_side'').GetName] нам не ворог і не друг. Та все ж тепер слід бути напоготові — ця країна починає відновлюватися."
  civil_war.2.descSIEGE:0 "Нам стало відомо з надійних джерел, що облога фортеці [SCOPE.sP(''fort_flavor_location'').GetName] стала поворотним моментом у війні — війська повстанців намагалися розгромити вірне владі військо, але досвідчений полководець [SCOPE.sC(''victorious_side'').GetRuler.GetName] перехитрив їх."
  civil_war.2.descSIEGE2:0 "Облога фортеці [SCOPE.sP(''fort_flavor_location'').GetName] стала поворотним моментом у війні — вірні владі війська взяли фортецю штурмом, не дивлячись на величезні втрати."
