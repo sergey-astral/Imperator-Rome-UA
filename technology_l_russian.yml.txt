@@ -11,7 +11,7 @@
  NO_EFFECT_TECH:0 "(Нет эффекта)"
  RESEARCH_FROM_POPS:0 "От граждан: $VAL|+=2$"
  BASE_RESEARCH:0 "Базовое значение: #Y $VAL|2$%#!\n"
- CURRENT_INVESTMENT_IN_RESEARCH:0 "\nТекущие успехи: $CURRENT|2Y$/$COST|0Y$ ($INVESTMENT|+=2$)\n\nЕжемесячный рост в $INVESTMENT|+=2/%$ вызван следующими причинами:\n"
+ CURRENT_INVESTMENT_IN_RESEARCH:0 "\nТекущие успехи: $CURRENT|2/%Y$/$COST|0Y/%$ ($INVESTMENT|+=2/%$ в месяц)\n\nЕжемесячный рост в $INVESTMENT|+=2/%$ по следующим причинам:\n"
  RES_CITIZEN_CONTRIBUTION:0 "Каждый месяц граждане дают $VAL|Y2$ ед. исследований.\n"
  RES_TECH_RESEARC_BOOSTS:0 "Средний исследователь также добавляет $VAL|+=%$ ед. прогресса к соответствующей категории.\n"
  RES_DIVIDE_POPS:0 "Каждый год граждане дают $RP|Y0$ @citizen_output!, население составляет $VAL|Y0$ @total_population!, и в итоге эффективность наших исследований равна $RATIO|2Y%$.\nМаксимальная эффективность не может быть выше $MAX|0%$."
