@@ -1,5 +1,5 @@
-﻿l_russian:
- HAS_DLC_TRIGGER:0 "Есть DLC: $DLC|Y$"
- HAS_NOT_DLC_TRIGGER:0 "НЕТ DLC: $DLC|Y$"
- MISSING_DLCS:0 "Недостающие дополнения:"
- AlphaTestDLC:0 "DLC для альфа-теста"
+l_russian:
+ HAS_DLC_TRIGGER:0 "Є DLC: $DLC|Y$"
+ HAS_NOT_DLC_TRIGGER:0 "НЕМАЄ DLC: $DLC|Y$"
+ MISSING_DLCS:0 "Бракуючі доповнення:"
+ AlphaTestDLC:0 "DLC для альфа-тесту"
