@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  Johan_event.1.t:0 "Назва тестової події Йохана"
  Johan_event.1.d:0 "[ROOT.Char.GetName]: вік — [ROOT.Char.GetAge], країна мешкання — [ROOT.Char.GetCountry.GetName]"
  Johan_event.1.a:0 "Жереб кинуто!"

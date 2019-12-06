@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  diplomatic_status_war_tooltip:0 "#T Війна#!\nДана держава у стані війни з цими народами!"
  diplomatic_status_alliance_tooltip:0 "#T Союз\n#!Держави-союзники часто приходять на допомогу одна одній в разі нападу."
  diplomatic_status_vassalizing_tooltip:0 "#T Підданні#!\nЦі держави можуть прийти на допомогу своєму патрону, якщо той піддасться нападу."
@@ -18,3 +18,4 @@ l_russian:
  diplomatic_status_defensive_league_tooltip:0 "#T Оборонний союз#!\nЦя держава знаходиться в оборонному союзі. Якщо на неї нападуть, всі інші члени оборонного союзу будуть покликані до зброї."
  diplomatic_status_opinion_improvement_passive_tooltip:0 "#T Думка покращується#!\nНаступні держави кращі в очах цього народу."
  diplomatic_status_opinion_improvement_active_tooltip:0 "#T Покращує думку#!\nДанна держава прагне стати краще в очах цих народів."
+ DIPLOREASON_NUM_ALLIES:0 "Всього союзників"

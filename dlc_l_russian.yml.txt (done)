@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  HAS_DLC_TRIGGER:0 "Є DLC: $DLC|Y$"
  HAS_NOT_DLC_TRIGGER:0 "НЕМАЄ DLC: $DLC|Y$"
  MISSING_DLCS:0 "Бракуючі доповнення:"

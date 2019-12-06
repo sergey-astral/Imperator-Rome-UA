@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  PRICE_ON_WAR_IMPACT_ENTRY:0 "$NAME$\n"
  DECLARE_WAR_ENEMY_ALLY_ALREADY_AT_WAR:0 "@[COUNTRY.GetFlag]! [COUNTRY.GetName] НЕ може вступити у війну, оскільки вже воює з державою @[DEFENDER.GetFlag]! [DEFENDER.GetName]"
  DECLARE_WAR_ENEMY_FIGHTING_WAR_TOGETHER:0 "@[COUNTRY.GetFlag]! [COUNTRY.GetName|Y] НЕ може вступити у війну, оскільки вже воює разом з державою @[ATTACKER.GetFlag]! [ATTACKER.GetName|Y]"

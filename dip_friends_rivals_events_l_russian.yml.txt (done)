@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  dip_friends_rivals.2.t:0 "[SCOPE.sC('friend_asking_country').GetRulerTitle] [SCOPE.sC('friend_asking_country').GetRuler.GetPraenomen] пропонує дружбу"
  dip_friends_rivals.2.desc:0 "[SCOPE.sC('friend_asking_country').GetRulerTitle] [SCOPE.sC('friend_asking_country').GetRuler.GetName], правитель союзної нам держави [SCOPE.sC('friend_asking_country').GetName], посилає нам гінця і через нього пропонує: хай [SCOPE.sC('friend_asking_country').GetRuler.GetSheHe] і наш правитель [ROOT.GetCountry.GetRulerTitle] [ROOT.GetCountry.GetRuler.GetPraenomen] стануть друзями.\n\nНемає жодного сумніву, що близькі друзі — це ще і надійні союзники..."
  dip_friends_rivals.2.a:0 "Це може нам згодитися."

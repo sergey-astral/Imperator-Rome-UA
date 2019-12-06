@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  become_despotic_monarchy_tribal:0 "Прийняти автократію"
  become_despotic_monarchy_tribal_desc:0 "Надихнувшись прикладом царів іноземців і тиранів, [COUNTRY.GetRuler.GetName] може забрати у свої руки більше влади, відкинувши племінні звичаїв наших предків."
  become_democracy_tribal:0 "Прийняти демократію"
