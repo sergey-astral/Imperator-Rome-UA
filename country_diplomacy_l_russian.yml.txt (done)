@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  country_diplomacy.1.t:0 "Друзі за кордоном"
  country_diplomacy.1.desc:0 "Наш [SCOPE.sCharacter('friendly_character_root').GetOffice.GetCulturalName(ROOT.GetCountry)] [SCOPE.sCharacter('friendly_character_root').GetName] має друзів далеко за межами наших кордонів і часто використовує свою мережу знайомств для вигоди нашої держави. [SCOPE.sCharacter('friendly_character_root').GetSheHe|U] вважає, що [SCOPE.sCharacter('friendly_character_root').GetHerHis] дружбою з такою людиною, як [SCOPE.sCharacter('friendly_character_foreign').GetOffice.GetCulturalName(SCOPE.sCountry('foreign_country'))] з держави [SCOPE.sCountry('foreign_country').GetName], можна скористатися, щоб поліпшити їхню думку про нас.\n\nНам потрібно буде лише відправити якусь частину нашого багатства, і [SCOPE.sCharacter('friendly_character_foreign').GetSheHe] спробує підвищити нашу репутацію в цій державі."
  country_diplomacy.1.a:0 "Добре, відправмо золото."

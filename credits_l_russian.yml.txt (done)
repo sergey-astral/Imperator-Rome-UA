@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  IMPERATOR_ROME_GAME_TEAM:0 "Творці гри Imperator: Rome"
  PROJECT_LEADS:0 "КЕРІВНИКИ ПРОЕКТУ"
  CREATIVE_DIRECTOR:0 "Креативний директор"
@@ -8,7 +8,7 @@ l_russian:
  DESIGN:0 "ДИЗАЙН"
  GAME_DESIGN:0 "Ігровий дизайн"
  ADDITIONAL_DESIGN:0 "Додатковий дизайн"
- CONTENT_DESIGNERS:0 "Дизайнери контенту"
+ CONTENT_DESIGNERS:0 "Дизайн контенту"
  ADDITIONAL_CONTENT_DESIGN:0 "Додатковий дизайн контенту"
  UX_DESIGN:0 "Дизайн UX"
  ADDITIONAL_UX_DESIGN:0 "Додатковий дизайн UX"
