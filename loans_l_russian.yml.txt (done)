@@ -1,0 +1,3 @@
+l_russian:
+ num_of_loans_tooltip:0 "\t\t\t\t\t\t\t\t[SCOPE.sCountry('actor').GetName|Y] має менше #Y 3#! позик."
+ rule_pop_greater_than_target_loyalty:0 "\t\t\t\t\t\t\t\tПопулярність правителя вища, ніж вірність персонажа [SCOPE.sChar('target').GetName]."
