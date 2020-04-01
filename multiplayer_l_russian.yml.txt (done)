@@ -1,0 +1,6 @@
+l_russian:
+ RANDOM_COUNT:0 "Випадкова кількість"
+ RANDOM_SEED:0 "Випадкове значення"
+ GAMESTATE_CHECKSUM:0 "Контрольна сума стану гри"
+ LIVING_CHARACTERS:0 "Живі персонажі"
+
