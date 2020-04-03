@@ -6,7 +6,7 @@
  SETTING_AUTOSAVE:0 "Інтервал автозбереження"
  SETTING_DEBUG_SAVES:0 "Кількість налагоджувальних збережень"
  SETTING_WINDOW_MOVE_TIME:0 "Час руху вікна"
- SETTING_RADIAL_STAY_TIME:0 "Час відображення радіального меню"
+ SETTING_RADIAL_STAY_TIME:0 "Час показу радіального меню"
  SETTING_CAMERA_FACE_NORTH:0 "Камера на північ"
  SETTING_AUTOSAVE_TO_CLOUD:0 "Автозбереження в хмарці"
  SETTING_DISABLED_ALERTS:0 "Відключення попереджень"
