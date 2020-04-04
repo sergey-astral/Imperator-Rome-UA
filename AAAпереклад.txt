@@ -1,1 +1,5 @@
+В файлі прогрес перекладу до версії 1.3
 
+serrocko - файли від a до s
+sergey-astral - файли від settings до wonders
+Lodr222 - файли units i units2
